@@ -43,7 +43,7 @@ Demonstrated all Power BI capabilities: ETL, DAX, modeling, RLS, and storytellin
 
 ## 📸 Dashboard Previews
 
-![Swiggy Excel Dashboard](https://your-link-here)  
+![Swiggy Excel Dashboard]([https://github.com/Priyanshsharma06/Excel-Project.git])  
 ![AdventureWorks Power BI Dashboard](https://your-link-here)  
 
 ## 🔑 Key Strengths
